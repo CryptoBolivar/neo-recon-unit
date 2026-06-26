@@ -1,0 +1,11 @@
+{
+  "name": "neo-recon-unit",
+  "version": "1.1.6",
+  "description": "Unidad de Reconocimiento Táctica para Neo",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
